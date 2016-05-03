@@ -99,6 +99,7 @@
     <Compile Include="Clients.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Scopes.cs" />
+    <Compile Include="Startup.cs" />
     <Compile Include="Users.cs" />
   </ItemGroup>
   <PropertyGroup>
